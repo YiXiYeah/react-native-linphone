@@ -1,0 +1,266 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from [linphone-sdk-android-4.4.0.aar] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/a20e8e43addf9050efa87e2cc7a46e8d/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ccdad5d6ca89276d6b22593037eaae26/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/abb83a44e58cf5f4f1c5595384f4b35f/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/c54d4b238745df812926d5e335083a00/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/7f18e13c3ebf0076e5679736e894bc70/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ea05c17a1537abe876d66b703227595c/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ce6541269a22d46e06c4dccee8a6633c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/629c621bf3a932828fd0b6118a0c929e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ca5a79d6d1726c7da4514dca9e827796/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/734b7a3471a876e12db42fb2e91d519e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/71bf7922a5b67dc196e54c057d9768a2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/787667d5050ddf883be5e277108ff0cd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/295eb4c5f38f215b4837b9d1f6d41311/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/30501ae9585486ea546cbb787a0f683b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/a2715bdde766fb17517e2961d4efde5a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/047bb2a6f8b3e4c34fba06dc4207fe1a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/96da34c5e2710eee7dc9a5d8fb78973a/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/35f31d4a47a777c394165d81bea89b7b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/0b01a6a85e09490492707aa27d6aca41/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/4a61127666a29ee4e23fc8ce4db2d4b5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/7a91cb06a38f0b3b9d257c3adaf72d3c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/fc1ba50007db2cea036a52c12ec89879/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/348cf11c1bc7f1c3bb8078181d9281df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/e0ecabe846de29001c8ca6f42e69d06e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/f3bee3202ae5c41f9ebb9887ba7175ed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/448b389c1744b5ea10a74a4540ba4619/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/93ac3fe3f336fd11eeaa71497bc728db/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ad0e33159237ea799ea77a86bf79e70d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/e7a05af0a16461f593fc1b7102edd185/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/227973a769929ff54826756cc6870a55/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/9f73620bf60d7cf2aea25677d9d6e6a5/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/8f6ac80fed67d6d31291a6a9f4acb811/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/60e5456ebf15b00952e33037dca1e1a1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/09fce568b5e22979e11b2b96cb0ce7ff/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/026b39daf6d11a330a9940f7316bc0a5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/c30dc3bf9aed71c8aa458b23c1200552/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/5b891b988810c3f991930c5e5faa8e05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/f63f4cc382bb3d32b153aacb9e2d8a6d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/e8eae3b01fbb7d0614a2a098139428a9/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ccdad5d6ca89276d6b22593037eaae26/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ccdad5d6ca89276d6b22593037eaae26/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.CAMERA
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:11:5-34:19
+MERGED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:11:5-34:19
+MERGED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:11:5-34:19
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/7f18e13c3ebf0076e5679736e894bc70/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/7f18e13c3ebf0076e5679736e894bc70/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/96da34c5e2710eee7dc9a5d8fb78973a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/96da34c5e2710eee7dc9a5d8fb78973a/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/e7a05af0a16461f593fc1b7102edd185/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/e7a05af0a16461f593fc1b7102edd185/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/9f73620bf60d7cf2aea25677d9d6e6a5/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/9f73620bf60d7cf2aea25677d9d6e6a5/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/f63f4cc382bb3d32b153aacb9e2d8a6d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/f63f4cc382bb3d32b153aacb9e2d8a6d/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/e7a05af0a16461f593fc1b7102edd185/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:15:9-41
+	tools:ignore
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:16:9-54
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:16:9-54
+	tools:targetApi
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:14:9-43
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:13:9-36
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:13:9-36
+	android:theme
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:17:9-40
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:12:9-40
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.linphonedemo.MainActivity
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:18:9-28:20
+	android:label
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:21:13-45
+	android:launchMode
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:22:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:23:13-55
+	android:configChanges
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:20:13-90
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.linphonedemo.CallActivity
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:29:19-47
+service#com.linphonedemo.LinphoneService
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:30:9-32:48
+	android:label
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:31:13-44
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:33:9-86
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml:33:19-83
+uses-sdk
+INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml
+MERGED from [linphone-sdk-android-4.4.0.aar] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/a20e8e43addf9050efa87e2cc7a46e8d/AndroidManifest.xml:8:5-10:41
+MERGED from [linphone-sdk-android-4.4.0.aar] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/a20e8e43addf9050efa87e2cc7a46e8d/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ccdad5d6ca89276d6b22593037eaae26/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ccdad5d6ca89276d6b22593037eaae26/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/abb83a44e58cf5f4f1c5595384f4b35f/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/abb83a44e58cf5f4f1c5595384f4b35f/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/c54d4b238745df812926d5e335083a00/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/c54d4b238745df812926d5e335083a00/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/7f18e13c3ebf0076e5679736e894bc70/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/7f18e13c3ebf0076e5679736e894bc70/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ea05c17a1537abe876d66b703227595c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ea05c17a1537abe876d66b703227595c/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ce6541269a22d46e06c4dccee8a6633c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ce6541269a22d46e06c4dccee8a6633c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/629c621bf3a932828fd0b6118a0c929e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/629c621bf3a932828fd0b6118a0c929e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ca5a79d6d1726c7da4514dca9e827796/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ca5a79d6d1726c7da4514dca9e827796/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/734b7a3471a876e12db42fb2e91d519e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/734b7a3471a876e12db42fb2e91d519e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/71bf7922a5b67dc196e54c057d9768a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/71bf7922a5b67dc196e54c057d9768a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/787667d5050ddf883be5e277108ff0cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/787667d5050ddf883be5e277108ff0cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/295eb4c5f38f215b4837b9d1f6d41311/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/295eb4c5f38f215b4837b9d1f6d41311/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/30501ae9585486ea546cbb787a0f683b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/30501ae9585486ea546cbb787a0f683b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/a2715bdde766fb17517e2961d4efde5a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/a2715bdde766fb17517e2961d4efde5a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/047bb2a6f8b3e4c34fba06dc4207fe1a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/047bb2a6f8b3e4c34fba06dc4207fe1a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/96da34c5e2710eee7dc9a5d8fb78973a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/96da34c5e2710eee7dc9a5d8fb78973a/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/35f31d4a47a777c394165d81bea89b7b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/35f31d4a47a777c394165d81bea89b7b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/0b01a6a85e09490492707aa27d6aca41/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/0b01a6a85e09490492707aa27d6aca41/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/4a61127666a29ee4e23fc8ce4db2d4b5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/4a61127666a29ee4e23fc8ce4db2d4b5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/7a91cb06a38f0b3b9d257c3adaf72d3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/7a91cb06a38f0b3b9d257c3adaf72d3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/fc1ba50007db2cea036a52c12ec89879/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/fc1ba50007db2cea036a52c12ec89879/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/348cf11c1bc7f1c3bb8078181d9281df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/348cf11c1bc7f1c3bb8078181d9281df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/e0ecabe846de29001c8ca6f42e69d06e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/e0ecabe846de29001c8ca6f42e69d06e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/f3bee3202ae5c41f9ebb9887ba7175ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/f3bee3202ae5c41f9ebb9887ba7175ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/448b389c1744b5ea10a74a4540ba4619/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/448b389c1744b5ea10a74a4540ba4619/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/93ac3fe3f336fd11eeaa71497bc728db/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/93ac3fe3f336fd11eeaa71497bc728db/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ad0e33159237ea799ea77a86bf79e70d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ad0e33159237ea799ea77a86bf79e70d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/e7a05af0a16461f593fc1b7102edd185/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/e7a05af0a16461f593fc1b7102edd185/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/227973a769929ff54826756cc6870a55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/227973a769929ff54826756cc6870a55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/9f73620bf60d7cf2aea25677d9d6e6a5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/9f73620bf60d7cf2aea25677d9d6e6a5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/8f6ac80fed67d6d31291a6a9f4acb811/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/8f6ac80fed67d6d31291a6a9f4acb811/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/60e5456ebf15b00952e33037dca1e1a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/60e5456ebf15b00952e33037dca1e1a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/09fce568b5e22979e11b2b96cb0ce7ff/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/09fce568b5e22979e11b2b96cb0ce7ff/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/026b39daf6d11a330a9940f7316bc0a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/026b39daf6d11a330a9940f7316bc0a5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/c30dc3bf9aed71c8aa458b23c1200552/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/c30dc3bf9aed71c8aa458b23c1200552/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/5b891b988810c3f991930c5e5faa8e05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/5b891b988810c3f991930c5e5faa8e05/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/f63f4cc382bb3d32b153aacb9e2d8a6d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/f63f4cc382bb3d32b153aacb9e2d8a6d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/e8eae3b01fbb7d0614a2a098139428a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/e8eae3b01fbb7d0614a2a098139428a9/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/chengnan/Desktop/vincross/linphoneDemo/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ccdad5d6ca89276d6b22593037eaae26/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/chengnan/.gradle/caches/transforms-2/files-2.1/ccdad5d6ca89276d6b22593037eaae26/AndroidManifest.xml:16:22-73

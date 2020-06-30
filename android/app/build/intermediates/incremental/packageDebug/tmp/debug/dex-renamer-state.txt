@@ -1,0 +1,4 @@
+#Tue Jun 30 19:26:09 CST 2020
+base.0=/Users/chengnan/Desktop/vincross/linphoneDemo/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
